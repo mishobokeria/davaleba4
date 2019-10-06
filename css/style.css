@@ -18,5 +18,17 @@
 }
 .container{
 	width: 1170px;
-	margin: o auto;
+	margin: 0 auto;
+}
+.section{
+	margin-top: 30px;
+}
+.block-section{
+	display: inline-block;
+	background-color: #F2F2F2;
+}
+.block-text{
+	width: 356px;
+}.block-1{
+	vertical-align: top;
 }
