@@ -7,3 +7,11 @@
          url('../fonts/bpg-nino-mtavruli-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bpg-nino-mtavruli-bold-webfont.svg#bpg_nino_mtavrulibold') format('svg'); /* Legacy iOS */
 }
+@font-face{
+font-family: 'Roboto';
+    src: url('../fonts/Roboto-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/Roboto-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/Roboto-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/Roboto-regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/Roboto-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/Roboto-regular.svg#bpg_nino_mtavrulibold') format('svg'); /* Legacy iOS */
